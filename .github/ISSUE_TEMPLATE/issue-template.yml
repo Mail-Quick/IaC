@@ -1,0 +1,17 @@
+name: "고생하자"
+description: "이슈 템플릿."
+body:
+  - type: textarea
+    attributes:
+      label: ✅ 작업할 내용
+      description: 할 일을 체크박스 형태로 작성하세요.
+      value: |
+        - [ ] 내용
+  - type: textarea
+    attributes:
+      label: 🔥 Issue
+      description: 참고할 사항이 있다면 입력하세요.
+  - type: textarea
+    attributes:
+      label: 🙋🏻 참고 자료
+      description: 참고할 자료가 있다면 입력하세요.
