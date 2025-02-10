@@ -1,0 +1,2 @@
+variable "terraform_name" {
+}
